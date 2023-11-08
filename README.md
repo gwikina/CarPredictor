@@ -1,5 +1,4 @@
-# CarPredictor
-### - Batch Data Training and Analysis for Predictive Modeling
+# CarPredictor - Batch Data Training and Analysis for Predictive Modeling
 
 ## Overview
 
