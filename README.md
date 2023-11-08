@@ -54,6 +54,7 @@ This project focuses on the development of a custom Stochastic Gradient Descent 
 - `data_preprocessing.py`: Handles data cleaning and imputation tasks.
 - `visualization.py`: Includes code for data visualization.
 - `README.md`: The project README file.
+-  `SGD.py`: Custom implementation of the Stochastic Gradient Descent (SGD) algorithm, defining the `SGD` class and its methods.
 
 ## Usage
 
